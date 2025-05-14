@@ -1,2 +1,2 @@
 # grhack
-SI / Berkeley / Breakthrough / GR hackathon docs and code
+SETI Institute / Breakthrough / GNU Radio / ARDC hackathon docs and code
